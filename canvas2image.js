@@ -1,6 +1,7 @@
 /**
  * covert canvas to image
  * and save the image file
+ * 啦啦啦 heh
  */
 
 var Canvas2Image = function () {
